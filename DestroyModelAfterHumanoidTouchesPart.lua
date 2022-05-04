@@ -1,3 +1,5 @@
+--When a player touches the "part" it will wait 10 seconds and then destroy the "model"
+
 local part = game.Workspace.PartName --or wherever it is
 local model = game.Workspace.ModelName --or wherever it is
 
