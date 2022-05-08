@@ -26,7 +26,7 @@ for _, object in pairs(Selection:Get()) do
      if shouldDestroy == false then
       warn("SCRIPT: "..v.Name)
      else
-      --v:Destroy() --this is commented out for your protection. uncomment it once you understand the script.
+      --v:Destroy() --this is commented out for your protection. uncomment it once you understand the script. you will also need to set to true the first variable
       print("DESTROYED: "..v.Name)
      end
     end
