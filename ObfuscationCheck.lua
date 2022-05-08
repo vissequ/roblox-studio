@@ -1,4 +1,4 @@
-local shouldDestroy = true
+local shouldDestroy = false
 
 local SearchFor = {
  "#",
