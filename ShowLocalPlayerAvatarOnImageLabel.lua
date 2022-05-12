@@ -8,7 +8,7 @@ local thumbType = Enum.ThumbnailType.AvatarBust
 local thumbSize = Enum.ThumbnailSize.Size420x420
 local content, isReady = Players:GetUserThumbnailAsync(userId, thumbType, thumbSize)
 
-local model = script:WaitForChild("Model").Value --YOU MUST SET THE VALUE OF THE CHILD "MODEL" TO THE IMAGELABEL
+local model = script:WaitForChild("Model").Value --YOU MUST SET THE VALUE OF THE OBJECT VALUE "MODEL" TO THE IMAGELABEL. DO THIS VIA CODE OR IN THE EXPLORER/PROPERTIES
 
 -- Set the ImageLabel's content to the user thumbnail
 local imageLabel = model.Image.SurfaceGui.ImageLabel
