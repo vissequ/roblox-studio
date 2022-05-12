@@ -1,4 +1,5 @@
 --LocalScript
+--Required dependencies. Please look at other repo files with prefix "Weather"
  
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
