@@ -1,3 +1,5 @@
+--dependencies require please search the rest of repo for files with prefix: "Weather"
+
 local IsRaining = game.Workspace:WaitForChild("WeatherValues"):WaitForChild("IsRaining")
 local RainScript = script.Parent:WaitForChild("RainyDay")
 local RainSound = script.Parent:WaitForChild("Rain")
