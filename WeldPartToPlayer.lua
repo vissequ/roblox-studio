@@ -1,3 +1,5 @@
+--please delete the unncessary lines at your discretion
+
 game.Players.PlayerAdded:Connect(function(plr)
 	plr.CharacterAdded:Connect(function()
 		local newNecklace = script:WaitForChild("NeonNecklace"):Clone()
