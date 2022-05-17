@@ -5,9 +5,9 @@ script.Parent.Touched:Connect(function(hit)
 	
 	debounce = true
 		
-  if hit.Parent:FindFirstChild("Humanoid") then
-    print("This is where you call the function")
-  end
+	if hit.Parent:FindFirstChild("Humanoid") then
+	    print("This is where you call the function")
+	end
 	
 	wait(0.5)
 	
