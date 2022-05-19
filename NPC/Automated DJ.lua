@@ -1,3 +1,5 @@
+--Multiple dependencies required. This is the server code for running an automated NPC DJ with ability for purchases
+
 --**************************
 
 local overRideSong = nil -- = game.Workspace.Nightclub.DJSoundPart["deadmau5 - The Veldt (Instrumental mix)"]
@@ -86,20 +88,13 @@ local animations = script:GetChildren()
 
 ---sometimes it plays multiple animations at the same time, so that sucks
 
-
-
 local VAL_CurrentAdjustRate = mainDirectory:WaitForChild("CurrentAdjustRate")
 
 local firePart1 = mainDirectory:WaitForChild("FirePart")
 local firePart2 = mainDirectory:WaitForChild("FirePart2")
 local confettiPart = mainDirectory:WaitForChild("ConfettiPart")
 
-
-
-
-
 local function StopAllAnimations()
-	--this doesn't work so fuck
 	anim1:Stop()
 	anim2:Stop()
 	anim3:Stop()
@@ -153,7 +148,6 @@ local function CheckIfASongIsPlaying()
 		if v:IsA("Sound") then
 			if v.IsPlaying == true then
 				aSongIsPlaying = true
-				--ISFUPLAYING?
 			else
 				aSongIsPlaying = false
 			end
