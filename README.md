@@ -1,7 +1,7 @@
-# roblox studio
+<b># Roblox Studio</b>
 Lua Code for Roblox Studio
 
-<img src="https://vissequ.com/images/vissequ_studios_logo_white_black_bg.png"></img>
+<img src="https://vissequ.com/images/vissequ_studios_logo.png"></img>
 
 Most of these I have written from scratch and some I have only slightly modified. You are free to use these scripts in any way you want.
 
