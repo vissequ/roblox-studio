@@ -1,3 +1,6 @@
+--for your safety it is recommended you save a copy of your project file before running this script
+--if you do not understand how this script works then you should probably not use it
+
 local shouldDestroy = false
 
 local SearchFor = {
@@ -26,7 +29,7 @@ for _, object in pairs(Selection:Get()) do
      if shouldDestroy == false then
       warn("SCRIPT: "..v.Name)
      else
-      --v:Destroy() --this is commented out for your protection. uncomment it once you understand the script. you will also need to set to true the first variable
+      --v:Destroy() --this is commented out for your protection. uncomment it once you understand the script. you will also need to set the first variable to true
       print("DESTROYED: "..v.Name)
      end
     end
