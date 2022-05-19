@@ -1,4 +1,4 @@
-<b># Roblox Studio</b><br>
+<h2># Roblox Studio</h2><br>
 <b>Lua Code for Roblox Studio</b>
 
 <a href="https://vissequ.com" target="_blank"><img src="https://vissequ.com/images/vissequ_studios_logo.png" height="192" width="192"></img></a>
