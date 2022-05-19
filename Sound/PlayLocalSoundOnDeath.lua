@@ -1,3 +1,5 @@
+--this must be a local script in the local player
+
 local plr = game:GetService("Players").LocalPlayer
 local char = plr.Character or plr.CharacterAdded:Wait()
 local h = char:WaitForChild("Humanoid")
