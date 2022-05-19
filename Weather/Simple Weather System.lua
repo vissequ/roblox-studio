@@ -1,3 +1,5 @@
+--you will need the dependant scripts included in the Complex Weather System (same repo)
+
 local L = game:service("Lighting") 
 local RS = game:GetService("ReplicatedStorage")
 local REs = RS:WaitForChild("REs")
