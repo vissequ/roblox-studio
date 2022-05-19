@@ -9,7 +9,7 @@ local startIndicators = mainDirectory:WaitForChild("StartIndicators")
 
 local startingTick
 
-local raceInProgress = false
+local raceInProgress = false	
 
 local checkpoint1 = script.Parent.Checkpoint1
 
