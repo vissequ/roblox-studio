@@ -1,7 +1,7 @@
-<b># Roblox Studio</b>
-Lua Code for Roblox Studio
+<b># Roblox Studio</b><br>
+<b>Lua Code for Roblox Studio</b>
 
-<img src="https://vissequ.com/images/vissequ_studios_logo.png"></img>
+<a href="https://vissequ.com" target="_blank"><img src="https://vissequ.com/images/vissequ_studios_logo.png"></img></a>
 
 <a href="https://discord.com/invite/Y39axAq" target="_blank"><img src="https://vissequ.com/images/discord.png" height="64" width="64"></img></a>
 
