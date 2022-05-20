@@ -1,3 +1,5 @@
+--This was programmed by vissequ#1301 (Discord). You may use this any way you wish, but please do not remove this credit.
+
 local RS = game:GetService("ReplicatedStorage")
 local REs = RS:WaitForChild("REs")
 local rE = REs:WaitForChild("UpdateDJSongStatus")
