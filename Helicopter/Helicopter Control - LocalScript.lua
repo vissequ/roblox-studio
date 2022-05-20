@@ -1,3 +1,6 @@
+--This was programmed by vissequ#1301 (Discord). You may use this any way you wish, but please do not remove this credit.
+--This uses UserInputService as opposed to ContextActionService. Future goal to change.
+
 local seat = script:WaitForChild("Seat").Value
 local helicopter = seat.Parent.Parent.Parent.Parent
 
