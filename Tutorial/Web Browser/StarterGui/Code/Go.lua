@@ -1,3 +1,5 @@
+--place inside the textButton "Go"
+
 local url = ""
 local VAL_URL = script.Parent.Parent:WaitForChild("URL")
 local URLBox = script.Parent.Parent:WaitForChild("URLBox")
