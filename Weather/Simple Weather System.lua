@@ -1,3 +1,4 @@
+--This was programmed by vissequ#1301 (Discord). You may use this any way you wish, but please do not remove this credit.
 --you will need the dependant scripts included in the Complex Weather System (same repo)
 
 local L = game:service("Lighting") 
