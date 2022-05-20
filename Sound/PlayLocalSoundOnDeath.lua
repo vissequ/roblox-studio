@@ -1,3 +1,4 @@
+--This was programmed by vissequ#1301 (Discord). You may use this any way you wish, but please do not remove this credit.
 --this must be a local script in the local player
 
 local plr = game:GetService("Players").LocalPlayer
