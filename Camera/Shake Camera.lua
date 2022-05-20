@@ -1,3 +1,4 @@
+--This was programmed by vissequ#1301 (Discord). You may use this any way you wish, but please do not remove this credit.
 --set for cinematic use
 
 game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.All, false)
