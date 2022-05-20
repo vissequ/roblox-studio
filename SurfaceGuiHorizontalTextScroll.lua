@@ -1,3 +1,5 @@
+--This was programmed by vissequ#1301 (Discord). You may use this any way you wish, but please do not remove this credit.
+
 local msgs = {
 	"Assurez-vous de garder le blaster laser en sécurité jusqu'à ce qu'il se trouve dans la zone d'entraînement.",
 	"The Company is proud to support charity by throwing 10% of every returned communication pad off the roof to fall down to the surface dwellers.",
