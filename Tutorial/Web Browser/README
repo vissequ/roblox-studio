@@ -1,6 +1,7 @@
 This will allow you to import data from a URL. This is not intended for you to allow your players to access websites.
 It is designed so that you can access information that you store on outside servers if it is useful for the development of your game.
-On example of this would be setting up a Welcome Message on your game so it pulls in the message from a server.
+Most of your storage needs can be served by Roblox Datastorage, but you may find certain data that you wish to be able to easily edit outside of the game.
+One example of this would be setting up a Welcome Message on your game so it pulls in the message from a server.
 This way you could allow moderators to change the Welcome Message when appropriate, but they would not have access to edit the actual game.
 
 There is no YouTube video yet, but one is coming.
