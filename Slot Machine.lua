@@ -1,4 +1,4 @@
---very old script be warned lol
+--very old script be warned lol. it's up here because of multiple requests
 --This was programmed by vissequ#1301 (Discord). You may use this any way you wish, but please do not remove this credit.
 
 local w = 1.5
