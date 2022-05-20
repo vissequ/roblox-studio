@@ -3,6 +3,7 @@ It is designed so that you can access information that you store on outside serv
 Most of your storage needs can be served by Roblox Datastorage, but you may find certain data that you wish to be able to easily edit outside of the game.
 One example of this would be setting up a Welcome Message on your game so it pulls in the message from a server.
 This way you could allow moderators to change the Welcome Message when appropriate, but they would not have access to edit the actual game.
+Please note that the browser does not format HTML and is intended for plain text in an HTML file which can be further queried/"indexed" using string.find in the game's code.
 
 There is no YouTube video yet, but one is coming.
 
