@@ -1,3 +1,4 @@
+--This was programmed by vissequ#1301 (Discord). You may use this any way you wish, but please do not remove this credit.
 --this script is not for actual lights, but for neon parts that look like lights and are placed inside of fake building windows
 
 local T_LightsToChange = {}
