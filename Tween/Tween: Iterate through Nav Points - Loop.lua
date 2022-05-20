@@ -1,3 +1,5 @@
+--This was programmed by vissequ#1301 (Discord). You may use this any way you wish, but please do not remove this credit.
+
 local planePoints = script.Parent.Parent
 local T_PlanePoints = planePoints:GetChildren()
 
