@@ -1,3 +1,5 @@
+--This was programmed by vissequ#1301 (Discord). You may use this any way you wish, but please do not remove this credit.
+
 local Day_Sound = script:WaitForChild("Day")
 local AudioRefParts = game.Workspace:WaitForChild("LocalAudioRefParts")
 local RefPart = AudioRefParts:WaitForChild("ForestAmbience1")
