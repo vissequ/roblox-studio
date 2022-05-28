@@ -1,4 +1,5 @@
 local shouldDestroy = false --set to false for your safety
+--please only set this above boolean to true when you know what the script is doing
 
 local SearchFor = {
  "#",
