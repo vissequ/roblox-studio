@@ -11,5 +11,5 @@ If you find an error with a script or if you have any other questions please con
 <br></br>
 <h3># Resources</h3><br>
 <ul>
-  <li><b><a href="https://www.netlify.com/" target="_blank">Netlify</a></b></li>
+  <li><b><a href="https://www.netlify.com/" target="new">Netlify</a></b></li>
 </ul>
