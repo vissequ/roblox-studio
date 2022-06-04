@@ -10,6 +10,6 @@ Most of these I have written from scratch and some I have only slightly modified
 If you find an error with a script or if you have any other questions please contact <b>vissequ#1301</b> on Discord.
 <br></br>
 <h3># Resources</h3><br>
-<ol>
+<ul>
   <li><b><a href="https://www.netlify.com/" target="_blank">Netlify</a></b></li>
-</ol>
+</ul>
