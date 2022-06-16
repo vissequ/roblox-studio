@@ -13,3 +13,6 @@ If you find an error with a script or if you have any other questions please con
 <ul>
   <li><b><a href="https://www.netlify.com/" target="_blank">Netlify</a></b></li>
 </ul>
+<br></br>
+If you wish to donate to me please use this link:
+<a href="https://www.paypal.com/donate/?hosted_button_id=CYP9KPJ77YSE6">https://www.paypal.com/donate/?hosted_button_id=CYP9KPJ77YSE6</a>
