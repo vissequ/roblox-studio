@@ -5,7 +5,8 @@ One example of this would be setting up a Welcome Message on your game so it pul
 This way you could allow moderators to change the Welcome Message when appropriate, but they would not have access to edit the actual game.
 Please note that the browser does not format HTML and is intended for plain text in an HTML file which can be further queried/"indexed" using string.find in the game's code.
 
-There is no YouTube video yet, but one is coming.
+Please view the YouTube tutorial here:
+https://youtu.be/26Pk6b_lNlM
 
 You will need to have HTTP Services enabled in your Game Settings.
 
