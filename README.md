@@ -3,7 +3,7 @@
 <br></br>
 <a href="https://vissequ.com" target="_blank"><img src="https://vissequ.com/images/vissequ_studios_logo.png" height="192" width="192"></img></a>
 <br></br>
-<table style="border:none;">
+<table style=border:none;>
   <tr>
     <td><a href="https://discord.com/invite/Y39axAq" target="_blank"><img src="https://vissequ.com/images/discord.png" height="64" width="64"></img></a></td>
     <td><a href="https://www.youtube.com/channel/UCxtSy9Ma3iQecTooGkJqA1g" target="_blank"><img src="https://i.pinimg.com/originals/09/f4/72/09f4726125ab5fa8cbcf754b9ba07e7c.jpg" height="64" width="64"></img></a></td>
