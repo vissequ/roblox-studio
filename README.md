@@ -5,8 +5,8 @@
 <br></br>
 <table>
   <tr>
-    <td>1</td>
-    <td>2</td>
+    <td><a href="https://discord.com/invite/Y39axAq" target="_blank"><img src="https://vissequ.com/images/discord.png" height="64" width="64"></img></a></td>
+    <td><a href="https://www.youtube.com/channel/UCxtSy9Ma3iQecTooGkJqA1g" target="_blank"><img src="https://i.pinimg.com/originals/09/f4/72/09f4726125ab5fa8cbcf754b9ba07e7c.jpg" height="64" width="64"></img></a></td>
   </tr>
 </table>
 <br></br>
