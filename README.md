@@ -9,9 +9,9 @@
     <td><a href="https://www.youtube.com/channel/UCxtSy9Ma3iQecTooGkJqA1g" target="_blank"><img src="https://i.pinimg.com/originals/09/f4/72/09f4726125ab5fa8cbcf754b9ba07e7c.jpg" height="64" width="64"></img></a></td>
     <td><a href="https://www.paypal.com/donate/?hosted_button_id=CYP9KPJ77YSE6" target="_blank"><img src="https://www.seekpng.com/png/detail/18-182820_paypal-logo-png-paypal-logo-transparent.png" height="64" width="64"></img></a></td>
     <td><a href="https://www.roblox.com/users/476878699/profile" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Roblox_logo.png" height="64" width="64"></img></a></td>
+     <td><a href="https://twitter.com/vissequ" target="_blank"><img src="https://w7.pngwing.com/pngs/529/867/png-transparent-computer-icons-logo-twitter-miscellaneous-blue-logo-thumbnail.png" height="64" width="64"></img></a></td>
   </tr>
 </table>
-<br></br>
 <a href="https://www.paypal.com/donate/?hosted_button_id=CYP9KPJ77YSE6">Donate to vissequ with PayPal</a>
 <br></br>
 Most of these I have written from scratch and some I have only slightly modified. You are free to use these scripts in any way you want. Please note that some of these scripts have dependencies and will require that you read the code and add them.
