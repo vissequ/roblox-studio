@@ -1,0 +1,7 @@
+--This was programmed by vissequ#1301 (Discord). You may use this any way you wish, but please do not remove this credit.
+
+If placed correctly these scripts will "infect" a player when they touch a target area.
+This "infection" will change their avatar and place them on the Infection team.
+The teams are automatically created by the modulescript.
+The modulescript MUST be placed in ServerScriptService.
+The serverscript MUST be placed inside of the modulescript.
