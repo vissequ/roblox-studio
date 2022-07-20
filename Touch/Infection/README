@@ -3,5 +3,6 @@
 If placed correctly these scripts will "infect" a player when they touch a target area.
 This "infection" will change their avatar and place them on the Infection team.
 The teams are automatically created by the modulescript.
-The modulescript MUST be placed in ServerScriptService.
-The serverscript MUST be placed inside of the modulescript.
+The modulescript "TeamHandler.lua" MUST be placed in ServerScriptService.
+The serverscript "InfectionScript.lua" MUST be placed inside of the modulescript.
+The serverscript "InfectOnTouch.lua" MUST be placed inside of a part which is inside of the workspace (this part is the target area).
