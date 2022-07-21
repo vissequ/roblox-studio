@@ -22,6 +22,6 @@ If you find an error with a script or if you have any other questions please con
 <ul>
   <li><b><a href="https://developer.roblox.com/en-us/" target="_blank">Roblox Developer Hub</a></b></li>
   <li><b><a href="https://devforum.roblox.com/" target="_blank">Roblox Developer Forum</a></b></li>
-  <li><b><a href="https://create.roblox.com/docs/reference/engine" target="_blank">Roblox Engine API/a></b></li>
+  <li><b><a href="https://create.roblox.com/docs/reference/engine" target="_blank">Roblox Engine API</a></b></li>
   <li><b><a href="https://www.netlify.com/" target="_blank">Netlify</a></b></li>
 </ul>
