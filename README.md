@@ -14,6 +14,8 @@
 </table>
 <a href="https://www.paypal.com/donate/?hosted_button_id=CYP9KPJ77YSE6">Donate to vissequ with PayPal</a>
 <br></br>
+Ethereum, Celo, Polygon, BSC, AVAX: 0x660B4AC6c45D8d710d14735B005835754BBbAFB8
+<br></br>
 <a href="https://discord.gg/Y39axAq">Join the Vissequ Studios Discord</a>
 <br></br>
 Most of these I have written from scratch and some I have only slightly modified. You are free to use these scripts in any way you want. Please note that some of these scripts have dependencies and will require that you read the code and add them.
