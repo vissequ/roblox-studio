@@ -47,6 +47,7 @@ local T_MarqueeStocks = {
 
 local closePrice, openPrice
 
+--You'll want to comment these out unless you want to have a physical scrolling marquee
 local SurfaceGui_TextLabel_Marquee = script.MarqueeTextLabel.Value
 local SurfaceGui_TextLabel2_Marquee = script.MarqueeTextLabel2.Value
 local SurfaceGui_TextLabel3_Marquee = script.MarqueeTextLabel3.Value
