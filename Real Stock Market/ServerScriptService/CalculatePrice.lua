@@ -1,3 +1,6 @@
+--IMPORTANT
+--REPLACE INSERTHERE WITH YOUR OWN API KEY
+
 local RS = game:GetService("ReplicatedStorage")
 local REs = RS:WaitForChild("REs")
 local RFs = RS:WaitForChild("RFs")
@@ -86,10 +89,10 @@ local function CalculatePrice(plr, symbol, isCrypto)
 		--isCrypto = false
 		--if isCrypto == false then
 			--print"ain't crypto"
-			jsonData = HS:GetAsync("https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol="..symbol.."&interval=5min&apikey=3YQZRKUTDF94XJ2J&datatype=json", true)
+			jsonData = HS:GetAsync("https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol="..symbol.."&interval=5min&apikey=INSERTHERE&datatype=json", true)
 		--elseif isCrypto == true then
 			--print"is crypto"
-			--jsonData = HS:GetAsync("https://www.alphavantage.co/query?function=CRYPTO_INTRADAY&symbol="..symbol.."&market=USD&interval=5min&apikey=3YQZRKUTDF94XJ2J&datatype=json", true)
+			--jsonData = HS:GetAsync("https://www.alphavantage.co/query?function=CRYPTO_INTRADAY&symbol="..symbol.."&market=USD&interval=5min&apikey=INSERTHEREdatatype=json", true)
 		--end	
 	end)
 	if notSuccess then
