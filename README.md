@@ -5,8 +5,8 @@
 <br></br>
 <table>
   <tr>
-    <td><a href="https://discord.com/invite/Y39axAq" target="_blank"><img src="https://vissequ.com/images/discord.png" height="64" width="64"></img></a></td>
-    <td><a href="https://www.youtube.com/channel/UCxtSy9Ma3iQecTooGkJqA1g" target="_blank"><img src="https://image.similarpng.com/very-thumbnail/2020/07/Youtube-logo-on-transparent-background-PNG.png" height="64" width="64"></img></a></td>
+    <P> the following channel is not available. Legally I cannot assign blame without risk. It definitely was not removed because YouTube is run by the scum of the earth, creatures who barely masquerade as people. simply living to feed on the love, the hope. and the efforts of those they entrap. This is a company that is so legally evil it drives me insane. They are the reason for anti-corporate legislation. They are the only entity which gives a response which I approve of from the California government. I'm not a religious person. If they are, may God have mercy on their souls.</P>
+  <td><a href="https://www.youtube.com/channel/UCxtSy9Ma3iQecTooGkJqA1g" target="_blank"><img src="https://image.similarpng.com/very-thumbnail/2020/07/Youtube-logo-on-transparent-background-PNG.png" height="64" width="64"></img></a></td>
     <td><a href="https://www.paypal.com/donate/?hosted_button_id=CYP9KPJ77YSE6" target="_blank"><img src="https://www.seekpng.com/png/detail/18-182820_paypal-logo-png-paypal-logo-transparent.png" height="64" width="64"></img></a></td>
     <td><a href="https://www.roblox.com/users/476878699/profile" target="_blank"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/rbgebzd54uexaaqdnzrs" height="64" width="64"></img></a></td>
      <td><a href="https://twitter.com/vissequ" target="_blank"><img src="https://w7.pngwing.com/pngs/529/867/png-transparent-computer-icons-logo-twitter-miscellaneous-blue-logo-thumbnail.png" height="64" width="64"></img></a></td>
