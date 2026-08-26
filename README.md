@@ -1,1 +1,1 @@
-attempt is to change the README, not sure if GH will allow it
+The previous README has been removed. My content will no longer be available on YouTube (and effectively anywhere else. I am no longer able to help you learn. I am really sorry and it really hurts. If you are angry address your displeasure to Neal Mohan, the "CEO" of YouTube. You can find a way to contact me at vissequ.com 
